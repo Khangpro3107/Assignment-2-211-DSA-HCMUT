@@ -1,0 +1,2 @@
+INSERT b string true
+INSERT a (string)- >string true
